@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: url("https://videohive.img.customer.envatousercontent.com/files/3bdfa16b-f2bf-4b9e-8abe-76c4caea8691/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=8e280cc0a9a6e0d8c92d8383c8065baf");
+  background-image: url(../src/asset/corona.jpg);
 }
 
 .app {
